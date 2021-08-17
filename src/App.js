@@ -1,7 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 
+import users from './data/randomuser.json'
+
 function App() {
+  console.log(users)
+
   return (
     <div className="App">
       <header className="App-header">
