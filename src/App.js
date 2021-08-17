@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-import users from './data/randomuser.json'
+import users from './data/randomuser.json' // from https://github.com/pixelastic/fakeusers/tree/master/data
 
 function App() {
   console.log(users)
